@@ -15,7 +15,7 @@ My name is Shanbo (Fred) Zhang. I'm an undergraduate majoring in Computer Engine
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=EscapistArcadia&show_icons=true&theme=tokyonight"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EscapistArcadia&theme=tokyonight"/>
+<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=EscapistArcadia&theme=tokyonight"/> -->
   </a>
 </p>
 
