@@ -14,7 +14,7 @@ My name is Shanbo (Fred) Zhang. I'm an undergraduate majoring in Computer Engine
 
 <img src="https://skillicons.dev/icons?i=c,cpp,arduino,rust,java,cs,python,javascript"/>
 
-### Other Languages: x86 Assembly, MIPS Assembly, SystemVerilog, ARM Assembly.
+### Other Languages: x86 Assembly, MIPS/RISC-V Assembly, SystemVerilog, ARM Assembly, CUDA.
 
 # Tools and Other Skills
 
