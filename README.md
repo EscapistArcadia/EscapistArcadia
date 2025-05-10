@@ -6,7 +6,8 @@ My name is Shanbo (Fred) Zhang. I'm an undergraduate majoring in Computer Engine
 
 - 🔭 My interests are very broad and surround computers, especially <b>computer systems (operating systems, computer architectures, and their interactions)</b>, communication systems (networking and signals), distributed systems, software-hardware co-design (SoC, FPGA, VLSI?), etc.;
 - 📚 I'm learning ARM architecture and assembly, SystemVerilog, and Kubernates;
-- 👨‍💻 I'm designing and developing a 64-bit operating system kernel **Nickel**, which supports both UEFI and BIOS boot, multiple popular architectures (x86, ARM, RISC-V, MIPS, etc.), and various file systems;
+<!-- - 👨‍💻 I'm designing and developing a 64-bit operating system kernel **Nickel**, which supports both UEFI and BIOS boot, multiple popular architectures (x86, ARM, RISC-V, MIPS, etc.), and various file systems; 
+ -->
 
 <br clear="both">
 
